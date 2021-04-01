@@ -3,7 +3,6 @@
 const http = require("http");
 const fs = require("fs");
 const path = require("path");
-const url = require("url");
 const mime = require("mime");
 
 const HTTP_CODE_200 = 200;
